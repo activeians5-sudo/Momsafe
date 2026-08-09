@@ -1,187 +1,147 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/momsafe%20logo.png" alt="MomSafe AI" width="120"/>
+<img src=".canvas/assets/momsafe%20logo.png" alt="VeloVita Core Engine" width="120"/>
 
-<h1>MomSafe AI</h1>
+<h1>VeloVita Health Core</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&repeat=true&width=640&height=48&lines=AI-Powered+Maternal+Healthcare+%F0%9F%A4%B1;Real-Time+Vitals+%26+Risk+Scoring+%F0%9F%92%93;ESP32+IoT+Wearable+Integration+%F0%9F%94%8C;Personalized+AI+Guidance+Engine+%F0%9F%A4%96" alt="Typing animation"/>
+<img src="https://herokuapp.com" alt="Typing animation"/>
 
 <br/><br/>
 
-[![Stars](https://img.shields.io/github/stars/studycom69-debug/momsafe?style=flat-square&color=6366f1&label=⭐%20Stars)](https://github.com/studycom69-debug/momsafe/stargazers)
-[![Forks](https://img.shields.io/github/forks/studycom69-debug/momsafe?style=flat-square&color=10b981&label=🍴%20Forks)](https://github.com/studycom69-debug/momsafe/network)
-[![Last Commit](https://img.shields.io/github/last-commit/studycom69-debug/momsafe?style=flat-square&color=f59e0b&label=🕐%20Updated)](https://github.com/studycom69-debug/momsafe/commits/main)
-[![License](https://img.shields.io/github/license/studycom69-debug/momsafe?style=flat-square&color=ec4899&label=📄%20License)](LICENSE)
-
-[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Tailwind v4](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Vercel](https://img.shields.io/badge/Live%20on-Vercel-000000?style=flat-square&logo=vercel)](https://momsafe.vercel.app)
+[![Core Version](https://shields.io)](https://github.com)
+[![React 19](https://shields.io)](https://react.dev)
+[![TypeScript](https://shields.io)](https://typescriptlang.org)
+[![Supabase](https://shields.io)](https://supabase.com)
 
 <br/>
 
-<a href="artifacts/momsafe-ai/ESP32_INTEGRATION.md"><img src="https://img.shields.io/badge/🔌%20IoT%20Contract-ESP32%20Guide-10b981?style=for-the-badge" alt="IoT Contract"/></a>
-
-<br/><br/>
-
 ---
 
-### 🚀 Live Application
+### 🌐 Live Production Environment
 
-**Production deployment — live and fully functional**
+The active implementation of the VeloVita Core matrix is running live via its flagship consumer product portal (**MomSafe AI**). 
 
-<a href="https://momsafe.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20%20Open%20MomSafe%20AI%20%20%E2%86%92-momsafe.vercel.app-6366f1?style=for-the-badge&logoColor=white" alt="Open MomSafe AI" height="42"/>
+<a href="https://vercel.app">
+  <img src="https://shields.io🌐%20%20Click%20here%20to%20go%20on%20website%20%20%E2%86%92-Live%20Portal-0ea5e9?style=for-the-badge&logoColor=white" alt="Access Production Site" height="42"/>
 </a>
 
-<br/><sub>👆 Click to open the live app · Deployed on Vercel · No installation required</sub>
+<br/><sub>*Note: Clicking above directs to the optimized end-user client interface hosted on secure server networks.*</sub>
 
 ---
 
 <br/>
 
-> **Pregnancy is one of the most critical health periods in a person's life.**
-> MomSafe AI delivers a real-time intelligence layer for expectant mothers —
-> combining AI risk scoring, clinical vitals monitoring, and IoT wearable hardware
-> into one beautifully designed platform.
+> **Product Architecture Overview:**
+> VeloVita Core serves as the foundational data telemetry and intelligence layer. It directly powers the **MomSafe AI** maternal wellness ecosystem by processing rule-based risk scoring matrices, clinical vital signs parsing, and ESP32 wearable hardware integrations.
 
 </div>
 
 ---
 
-## ✨ Feature Highlights
+## 🛠️ Core Capabilities
 
 <div align="center">
 
-| 🏥 Command Center | 💓 Vitals Intelligence | 🤖 AI Guidance |
+| 🏥 Command Center Engine | 💓 Telemetry Ingestion | 🤖 Decision Matrix |
 |:---:|:---:|:---:|
-| Proprietary **Maternal Risk Index** synthesizes all health data into one color-coded score with live AI alerts | Heart rate · blood pressure · SpO₂ · temperature · weight — with trimester-specific safe-zone overlays | Explainable rule-based engine generates **"Do This Now"** action cards — no black-box AI |
+| Aggregates incoming health rows into a multi-factor **Maternal Risk Index (MRI)** score with live anomaly alerts. | Processes real-time rows for heart rate, blood pressure, SpO₂, and body temperature layers. | Generates contextual, rule-based **"Do This Now"** action prompts based on data thresholds. |
 
-| 📊 Analytics | 🥗 Nutrition & Daily Logs | 📍 Hospital Finder |
+| 📊 Analytical Layers | 🥗 Logging Architecture | 📍 Proximity Services |
 |:---:|:---:|:---:|
-| Health trend charts for vitals over time — heart rate, BP, SpO₂, weight — powered by Recharts | Meal logging with AI macro analysis · calorie goals · water intake · sleep · mood · symptom tracking | Geolocated Leaflet map surfaces nearby medical facilities · Emergency SOS mode |
+| Historical trend tracking charts for physiological biomarkers powered securely by Recharts. | Automated calculation engines tracking dietary metrics, caloric inputs, and hydration targets. | Geospatial map routing models for localized healthcare facilities and emergency SOS pathways. |
 
 </div>
 
-> 🔌 **Full IoT Layer** — C++/Arduino firmware on ESP32 auto-ingests temperature and step data over Wi-Fi into Supabase Edge Functions, closing the loop from wearable sensor to dashboard in seconds.
+> 🔌 **Hardware Synchronization** — Integrated C++/Arduino firmware targets the ESP32 micro-controller to stream biometric parameters over secure Wi-Fi protocols straight into backend database handlers.
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture Topography
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/Maternal_Health_AI_Ecosystem_Overview.png" alt="MomSafe AI — Maternal Health AI Ecosystem Architecture Diagram" width="90%"/>
+<img src=".canvas/assets/Maternal_Health_AI_Ecosystem_Overview.png" alt="VeloVita Telemetry Pipeline Workflow" width="90%"/>
 </div>
 
 <br/>
 
-> **Flow:** ESP32 → Edge Function (validate + write) → PostgreSQL → TanStack Query → AI risk engine → real-time dashboard update.
+> **Pipeline:** Wearable Node (ESP32) → Secure Edge Routing → PostgreSQL State Cache → TanStack Query Cache → Core Risk Diagnostics Engine → Consumer Dashboard Refreshes.
 
 ---
 
-## 📸 Screenshots
+## 📸 Core Module Interfaces
 
-| <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/dashboard.png" width="100%"/> | <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/vitals.png" width="100%"/> |
+| <img src=".canvas/assets/dashboard.png" width="100%"/> | <img src=".canvas/assets/vitals.png" width="100%"/> |
 |:---:|:---:|
-| **Command Center** · MRI score · live vitals · AI alerts | **Vitals Intelligence** · heart rate · BP · SpO₂ · trends |
+| **Command Center Interface** · Real-time patient profiles and threat vectors. | **Telemetry Module** · Detailed analysis of vital trends. |
 
-| <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/ai-guidance.png" width="100%"/> | <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/analytics1.png" width="100%"/> |
+| <img src=".canvas/assets/ai-guidance.png" width="100%"/> | <img src=".canvas/assets/analytics1.png" width="100%"/> |
 |:---:|:---:|
-| **AI Guidance Engine** · trimester-aware "Do This Now" recommendations | **Analytics Overview** · multi-factor health correlation charts |
+| **Guidance Generation Panel** · Contextual clinical action lists. | **Cross-Factor Analytics** · Correlation matrices for physiological telemetry. |
 
 <details>
-<summary>📷 View all screenshots — Nutrition, Medication, Hospital Finder</summary>
+<summary>📷 View Supplemental Module Layouts (Nutrition, Directory, Scheduling)</summary>
 
 <br/>
 
-| <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/analytics2.png" width="100%"/> | <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/nutrition-overview.png" width="100%"/> |
+| <img src=".canvas/assets/analytics2.png" width="100%"/> | <img src=".canvas/assets/nutrition-overview.png" width="100%"/> |
 |:---:|:---:|
-| **Analytics & Health Trends** | **Nutrition Tracker** |
+| **Biometric Stability Metrics** | **Nutrition Management Panel** |
 
-| <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/nutrition-meals.png" width="100%"/> | <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/medication.png" width="100%"/> |
+| <img src=".canvas/assets/nutrition-meals.png" width="100%"/> | <img src=".canvas/assets/medication.png" width="100%"/> |
 |:---:|:---:|
-| **Meal Logging & Food Recommendations** | **Medication Schedule (UI)** |
+| **Dietary Assessment Core** | **Medication Verification Grid** |
 
-| <img src="https://raw.githubusercontent.com/studycom69-debug/momsafe/main/.canvas/assets/nearby%20hospital.png" width="100%"/> | |
+| <img src=".canvas/assets/nearby%20hospital.png" width="100%"/> | |
 |:---:|:---:|
-| **Hospital Finder** | |
+| **Geospatial Proximity Routing** | |
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technical Blueprint
 
-| Layer | Technology |
+| Layer | System Mapping |
 |-------|-----------|
-| **Frontend** | React 19 · Vite 7 · TypeScript 5 |
-| **Styling & Motion** | Tailwind CSS v4 · Framer Motion |
-| **Data & Charts** | TanStack Query v5 · Recharts |
-| **UI System** | Radix UI · shadcn/ui · Lucide React |
-| **Backend** | Supabase — PostgreSQL · Google OAuth · Realtime |
-| **Serverless** | Supabase Edge Functions (`esp32-ingest`) |
-| **IoT** | ESP32 · C++/Arduino |
-| **Hosting** | Vercel |
+| **Core View Framework** | React 19 · Vite 7 · TypeScript 5 |
+| **Interface Constraints** | Tailwind CSS v4 · Framer Motion |
+| **Data Sync Handlers** | TanStack Query v5 · Recharts Data Layers |
+| **Component Kit** | Radix UI Primitive Foundations · shadcn/ui · Lucide Icons |
+| **Data Persistence** | Supabase — PostgreSQL Storage Layer · Realtime WebSockets |
+| **Serverless Pipeline** | Supabase Distributed Edge Functions (`esp32-ingest`) |
+| **Hardware Core** | ESP32 Wearable Firmware (C++ Architecture) |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Environment Initialization
 
-**Prerequisites:** Node.js 20+, [Supabase](https://supabase.com) project, Google OAuth configured.
+**Dependencies:** Node.js 20+, [Supabase Database Instance](https://supabase.com), Identity Provider Mappings.
 
 ```bash
-git clone https://github.com/studycom69-debug/momsafe.git
-cd momsafe && npm install
+# Clone the core layout architecture repository
+git clone https://github.com.git
+
+# Enter workspace and build localized dependency tree
+cd velovita-core && npm install
 ```
 
-Create `.env.local`:
+Configure `.env.local` to bridge backend services:
 ```env
-VITE_SUPABASE_URL=https://your-project.supabase.co
+VITE_SUPABASE_URL=https://supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-key
 ```
 
 ```bash
-# Apply migrations in Supabase SQL Editor → artifacts/momsafe-ai/supabase/migrations/
+# Initialize local development preview server
 npm run dev
 ```
-
-> 🔌 Deploy ESP32 edge function: `npx supabase functions deploy esp32-ingest` · Full guide in [`ESP32_INTEGRATION.md`](artifacts/momsafe-ai/ESP32_INTEGRATION.md)
-
----
-
-## 🗺️ Future Roadmap
-
-- [ ] Medication persistence — save schedules and doses to the database
-- [ ] Fetal kick counter & movement tracking
-- [ ] Glucose monitoring integration
-- [ ] Doctor / care-team shared dashboard
-- [ ] Push notifications on threshold breach
-- [ ] PWA + offline sync mode
-- [ ] Bluetooth LE wearable support
-
----
-
-## 🤝 Contributing
-
-```bash
-git checkout -b feat/your-feature
-# make changes
-npm run typecheck   # must pass
-git commit -m "feat: your feature description"
-# open PR against main
-```
-
-All contributions welcome — clinical accuracy, mobile UX, i18n, new sensor types, accessibility.
 
 ---
 
 <div align="center">
 
-**Built with 💙 for every mother and child.**
+**Optimized Core Engine Architecture.**
 
-*MomSafe AI — Because every pregnancy deserves intelligent care.*
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Try%20it%20live-momsafe.vercel.app-6366f1?style=for-the-badge)](https://momsafe.vercel.app)
+*VeloVita Technology — Powering specialized applications like MomSafe AI with reliable, scalable biometric orchestration.*
 
 </div>
